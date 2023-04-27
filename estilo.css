@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: white;
+    background: rgb(7,124,231);
+    background: linear-gradient(15deg, rgba(7,124,231,1) 15%, rgba(249,255,10,1) 50%, rgba(0,255,34,1) 85%);
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    margin-left: 38.999%;
+    margin-top: 3%;
+    background-color: black;
+    margin-right: 39%;
+    align-items: center;
+    text-align: center;
+    border: 5px white solid;
+    border-radius: 15px;
+    padding: 30px;
+    width: 20vw;
+}
+
+.box{
+    padding-left: 9%;
+}
+
+img{
+    height: 55vh;
+    width: 30vw;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+input{
+    border: white 2px solid;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+footer{
+    border-top: white 5px solid;
+    text-align: center;
+    background-color: black;
+    height: 10vh;
+    margin:  auto;
+    padding: 2%;
+    font-size: 20px;
+}
+
+a{
+    color: white;
+}
+
